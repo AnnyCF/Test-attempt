@@ -22,5 +22,5 @@ First git/github project challenge.
  
  
  
- ***_That's all for now!  
+ ***_That's all, for now!  
 I hope it helped!!!_***
